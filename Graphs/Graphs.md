@@ -1,9 +1,5 @@
 # Introduction
 
-Better Call Saul and Breaking Bad are two award winning shows that are set in the same universe. The shows contain many different characters and a great story
-with many different plot twists. Both of the shows are no longer aired and each of the shows have a final season split into parts which is included in the data
-visualizations as "A" and "B" that refers to part 1 and part 2 of the shows respectively. 
-
 These are graphs that show the different views and ratings between Breaking Bad and Better Call Saul. I have created two different filters for each show that seperates 
 the pie chart areas into the Rotten Tomatoes and Metacritic ratings as well as showing the data of the viewers for when the seasons first and last aired.
 The filters for both shows are with the seasons. 
