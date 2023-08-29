@@ -6,7 +6,6 @@ UNION
 SELECT Date_First_Aired, First_Aired_Viewers_millions, Season, Episodes, Name FROM BreakingBadViewers
 USE BBandBCS;
 
-
 /*Shows viewers from both shows when they first aired from lowest to highest*/
 SELECT Date_First_Aired, First_Aired_Viewers_millions, Season, Episodes, Name FROM BetterCallSaulViewers
 UNION 
